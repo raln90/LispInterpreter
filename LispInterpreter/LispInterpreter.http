@@ -1,6 +1,0 @@
-@LispInterpreter_HostAddress = http://localhost:5212
-
-GET {{LispInterpreter_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
